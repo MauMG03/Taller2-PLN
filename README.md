@@ -6,6 +6,8 @@
 - Juleipssy Daianne Cely Archila
 - Juan Sebastian Getial Getial
 
+Enlace a drive con archivos: https://drive.google.com/drive/folders/1ZwYbXScewnv8wRRfgU7Nq0wAb2UUJ3Ii?usp=sharing
+
 ## Punto 1
 
 Enlace al archivo con palabras vectoriazadas: https://drive.google.com/drive/folders/1ad84_9GjoMWmBfgUSMhJCAl3wf9juAns?usp=sharing
